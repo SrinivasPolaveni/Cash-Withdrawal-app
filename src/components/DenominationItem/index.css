@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.button1 {
+  background-color: #585076;
+  border: 2px solid #d4d2db;
+  text-align: center;
+  font-size: 15px;
+  border-radius: 7px;
+  color: #d4d2db;
+  width: 140px;
+  padding: 8px;
+  margin: 15px;
+  cursor: pointer;
+  outline: none;
+}
+.item {
+  list-style-type: none;
+}
